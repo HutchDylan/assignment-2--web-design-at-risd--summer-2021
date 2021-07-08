@@ -6,6 +6,13 @@ header {
   color: #F2294E;
 }
 
+.pub {
+  color: #04BF55;
+}
+
+.highlight {
+  color: #F2B441;
+}
 body {
 padding-left: 50%;
 background-color: #0D0D0D;
