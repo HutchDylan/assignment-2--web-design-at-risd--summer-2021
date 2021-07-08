@@ -1,12 +1,20 @@
+header {
+  color: #F2294E;
+}
+
+#members {
+  color: #04BF55;
+}
+
 body {
 padding-left: 50%;
-background-color: grey;
+background-color: #0D0D0D;
 }
 
 ol {
-  color: maroon;
+  color: #F2B441;
 }
 
 p {
-  color: Black;
+  color: #F2294E;
 }
