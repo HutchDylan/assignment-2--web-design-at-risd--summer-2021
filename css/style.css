@@ -1,27 +1,46 @@
+body {
+color: inherit;
+background-color: #0D0D0D;
+}
+
 header {
   color: #04BF55;
+  background-color: inherit;
+  padding-left: 50%;
+  font-family: sans-serif;
 }
 
 #members {
+  padding-left: 50%;
   color: #F2294E;
+  background-color: inherit;
+}
+
+ol {
+  padding-left: 55%;
+  color: #F2B441;
+  background-color: inherit;
+  font-family: monospace;
+}
+
+p {
+  padding-left: 50%;
+  color: #F2294E;
+  background-color: inherit;
+  font-family: sans-serif;
 }
 
 .pub {
   color: #04BF55;
+  background-color: inherit;
+}
+
+img {
+  border-color: #F2B441;
+  float: left;
 }
 
 .highlight {
   color: #F2B441;
-}
-body {
-padding-left: 50%;
-background-color: #0D0D0D;
-}
-
-ol {
-  color: #F2B441;
-}
-
-p {
-  color: #F2294E;
+  background-color: inherit;
 }
